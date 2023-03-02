@@ -1,0 +1,22 @@
+[
+  {
+    "name": "cosmo",
+    "location": "pattom",
+    "patientcount": 90
+  },
+  {
+    "name": "sp",
+    "location": "kottayam",
+    "patientcount": 1000
+  },
+  {
+    "name": "medical",
+    "location": "ullor",
+    "patientcount": 76
+  },
+  {
+    "name": "kims",
+    "location": "tvm",
+    "patientcount": "3"
+  }
+]
